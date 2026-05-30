@@ -1,4 +1,3 @@
-/* V3 — mobile menu only. Minimal. */
 (function () {
   document.addEventListener('DOMContentLoaded', function () {
     var btn = document.getElementById('navBtn');
