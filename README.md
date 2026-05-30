@@ -1,15 +1,35 @@
 # ayushkr80.github.io
 
-Personal site for Ayush Kumar — Data and business analyst, IIT Bhilai '27.
+Personal portfolio site for Ayush Kumar -- Data & Business Analyst, IIT Bhilai '27.
 
-Built by hand. HTML + CSS + minimal JS. No framework, no build step.
+## Stack
 
-## Updating
+- Pure HTML, CSS, vanilla JavaScript (no frameworks, no build step)
+- Google Fonts: Fraunces, Inter, JetBrains Mono
+- Hosted on GitHub Pages
 
-Edit files directly on GitHub. Changes go live in ~30 seconds.
+## Design
 
-Update the "Now" box every month or two — it signals the site is alive.
+V4 -- warm, structured, and visually engaging without looking AI-generated.
 
----
+- Cream background with subtle dot pattern
+- Burnt-orange accent (#b54924)
+- Project cards with left-border accent and hover lift
+- Skill pills (rounded inline tags)
+- Contact cards side by side
+- Diamond section dividers
+- Scroll fade-in (opacity only, via IntersectionObserver)
+- Mobile responsive (breakpoint at 640px)
+- Print stylesheet included
 
-© Ayush Kumar
+## Local development
+
+Open `index.html` in a browser. No build step required.
+
+## Deployment
+
+Push to `main` branch. GitHub Pages serves from root.
+
+## Last updated
+
+May 2026
