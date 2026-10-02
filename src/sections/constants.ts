@@ -1,0 +1,1 @@
+export const heroSectionId="home";export const projectsSectionId="projects";export const experienceSectionId="experience";export const aboutSectionId="about";export const contactSectionId="contact";
