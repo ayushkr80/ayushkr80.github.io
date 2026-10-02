@@ -1,0 +1,1 @@
+export const Footer=()=> <footer className="border-t border-white/10 py-8"><div className="container flex flex-col md:flex-row justify-between gap-3 text-sm text-white/35"><span>© {new Date().getFullYear()} Ayush Kumar</span><span>IIT Bhilai • Built with Next.js</span></div></footer>;
